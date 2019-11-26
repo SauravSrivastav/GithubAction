@@ -1,0 +1,14 @@
+C:\Users\saurav.srivastava\Desktop\GithubAction\bin\Debug\netcoreapp2.1\GithubAction.deps.json
+C:\Users\saurav.srivastava\Desktop\GithubAction\bin\Debug\netcoreapp2.1\GithubAction.runtimeconfig.json
+C:\Users\saurav.srivastava\Desktop\GithubAction\bin\Debug\netcoreapp2.1\GithubAction.runtimeconfig.dev.json
+C:\Users\saurav.srivastava\Desktop\GithubAction\bin\Debug\netcoreapp2.1\GithubAction.dll
+C:\Users\saurav.srivastava\Desktop\GithubAction\bin\Debug\netcoreapp2.1\GithubAction.pdb
+C:\Users\saurav.srivastava\Desktop\GithubAction\obj\Debug\netcoreapp2.1\GithubAction.csprojAssemblyReference.cache
+C:\Users\saurav.srivastava\Desktop\GithubAction\obj\Debug\netcoreapp2.1\GithubAction.csproj.CoreCompileInputs.cache
+C:\Users\saurav.srivastava\Desktop\GithubAction\obj\Debug\netcoreapp2.1\GithubAction.RazorAssemblyInfo.cache
+C:\Users\saurav.srivastava\Desktop\GithubAction\obj\Debug\netcoreapp2.1\GithubAction.RazorAssemblyInfo.cs
+C:\Users\saurav.srivastava\Desktop\GithubAction\obj\Debug\netcoreapp2.1\GithubAction.AssemblyInfoInputs.cache
+C:\Users\saurav.srivastava\Desktop\GithubAction\obj\Debug\netcoreapp2.1\GithubAction.AssemblyInfo.cs
+C:\Users\saurav.srivastava\Desktop\GithubAction\obj\Debug\netcoreapp2.1\GithubAction.RazorTargetAssemblyInfo.cache
+C:\Users\saurav.srivastava\Desktop\GithubAction\obj\Debug\netcoreapp2.1\GithubAction.dll
+C:\Users\saurav.srivastava\Desktop\GithubAction\obj\Debug\netcoreapp2.1\GithubAction.pdb
